@@ -1,0 +1,5 @@
+A Brief Introduction to Quantum Computing from the Perspective of Ladder Logic
+
+A bit wordy so I use ABITQC for short.  It can be found on my github as its own project but the summary of it is as follows: Over the period of roughly two years, as my senior project to graduate with my bachelor's in EET, I taught myself quantum computing from scratch.  This was followed by LaTeX, QISKit, QASM and a multitude of other things that were required in order to properly be able to convey the knowledge that was gained.  At this point, despite not needing any more work to graduate, I am currently, and for the foreseeable future, will continue to maintain and update the project.  
+
+This is a subject I enjoy, and to that ends, I intend to keep my skills relevant.
