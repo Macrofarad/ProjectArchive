@@ -1,0 +1,1 @@
+Retired due to lack of usage, it was a custom script set using a Paspberry Pi which automatically displayed my google calander on a mounted screen, refreshed on a given time interval, and started upon boot.  While it's unlikely to come back, some of the techniques may be used later on in combination with an unraid server.
