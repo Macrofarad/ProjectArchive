@@ -3,3 +3,7 @@ No source code
 Desktop computer was built in 2008-9, finally here in 2018 it has begun to give out
 
 Revitalized it by making it an unraid server for data storage and minor virtualization
+
+Eventual plan is to migrate to a dedicated virtualization server instead of Windows, Linux, etc.  Currently doing most of my work, projects and so forth in Virtual machines so it's a pretty natural transition from my end.  
+
+Examples of VM's from the time of this writing: Project; Work; School; Androidx86_64; Internet.  Each of these is tailored to a specific purpose to help keep me on task.
